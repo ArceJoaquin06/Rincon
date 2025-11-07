@@ -1,0 +1,22 @@
+body {
+  font-family: "Poppins", sans-serif;
+  background-color: #fdf0df;
+}
+
+.bg-cream {
+  background-color: #fdf0df !important;
+}
+
+.bg-light-cream {
+  background-color: #fff6ed;
+}
+
+.btn-dark {
+  background-color: #4c3a36 !important;
+  border: none;
+}
+
+.btn-dark:hover {
+  background-color: #3a2d29 !important;
+}
+
